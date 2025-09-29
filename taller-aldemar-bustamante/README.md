@@ -1,5 +1,6 @@
-Proyecto: Proyecto_Jesus_Castro
-Autor (entrega): Jesus Castro
+Proyecto: Proyecto_aldemar_bustamante
+Autor (entrega): aldemar bustamante
+
 
 Contenido:
 - Ejercicio1MST.java
